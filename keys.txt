@@ -1,4 +1,0 @@
-<API Key goes here>
-<API Secret Key goes here>
-<Access Token goes here>
-<Access Token Secret goes here>
