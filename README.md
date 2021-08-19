@@ -59,7 +59,7 @@ Correct Syntax:
 * ```@real_8ball !8 Will I win a million dollars?```
 
 
-This project was largely a small introduction to get myself familiar with Tweepy and the Twitter API, therefore I do not plan to make many updates in the future. If you have any questions or suggestions feel free to message me on Twitter:
+This project was meant as a small introduction to get myself familiar with Tweepy and the Twitter API, therefore I do not plan to make many updates in the future. If you have any questions or suggestions feel free to message me on Twitter:
 
 ---------------------------
 
