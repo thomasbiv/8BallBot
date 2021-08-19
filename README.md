@@ -47,16 +47,18 @@ After this is completed, 8BallBot should be fully operational on the account the
 ## How To Use:
 
 After running the main file, 8BallBot will periodically scan its Twitter account for valid mentions containing the correct prefix.
-The prefix for mentioning 8BallBot is: ```!8```.
+The prefix for mentioning 8BallBot is: ```8!```.
 
 ### Examples:
 *(Note: This is an example. The Twitter handle will vary depending on what handle you have sent for your bot's account.)*
 
 Incorrect Syntax:
 * ```@real_8ball Will I win a million dollars?```
+* ```@real_8ball !8 Will I win a million dollars?```
 
 Correct Syntax:
-* ```@real_8ball !8 Will I win a million dollars?```
+* ```@real_8ball 8! Will I win a million dollars?```
+* ```@real_ball Will I win a million dollars? 8!```
 
 
 This project was meant as a small introduction to get myself familiar with Tweepy and the Twitter API, therefore I do not plan to make many updates in the future. If you have any questions or suggestions feel free to message me on Twitter:
