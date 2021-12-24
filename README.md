@@ -58,7 +58,7 @@ Incorrect Syntax:
 
 Correct Syntax:
 * ```@real_8ball 8! Will I win a million dollars?```
-* ```@real_ball Will I win a million dollars? 8!```
+* ```@real_8ball Will I win a million dollars? 8!```
 
 
 This project was meant as a small introduction to get myself familiar with Tweepy and the Twitter API, therefore I do not plan to make many updates in the future. If you have any questions or suggestions feel free to message me on Twitter:
