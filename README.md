@@ -50,7 +50,7 @@ After running the main file, 8BallBot will periodically scan its Twitter account
 The prefix for mentioning 8BallBot is: ```8!```.
 
 ### Examples:
-*(Note: This is an example. The Twitter handle will vary depending on what handle you have sent for your bot's account.)*
+*(Note: This is an example. The Twitter handle will vary depending on what handle you have set for your bot's account.)*
 
 Incorrect Syntax:
 * ```@real_8ball Will I win a million dollars?```
