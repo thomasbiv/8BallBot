@@ -67,7 +67,7 @@ This project was meant as a small introduction to get myself familiar with Tweep
 
 Thomas Bivins
 
-[@thomasbiv](https://twitter.com/thomasbiv)
+[bivinsthomas@gmail.com](mailto:bivinsthomas@gmail.com)
 
 USF Computer Engineering
 
